@@ -12,5 +12,5 @@ choose a image file to upload and click in 'upload'
 ```
 ###Output:
 ```
-Alert box with the file size in bits
+Alert box with the file size
 ```
