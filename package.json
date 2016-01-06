@@ -1,0 +1,23 @@
+{
+  "name": "file-metadata",
+  "version": "1.0.0",
+  "description": "file metadata microservice created for freecodecamp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xfilipe/file-metadata.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xfilipe/file-metadata/issues"
+  },
+  "homepage": "https://github.com/xfilipe/file-metadata#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "multer": "^1.1.0"
+  }
+}
